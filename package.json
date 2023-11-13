@@ -1,0 +1,11 @@
+{
+  "name": "markov",
+  "version": "1.0.0",
+  "description": "",
+  "main": "markov.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jon wilson",
+  "license": "ISC"
+}
